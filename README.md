@@ -1,6 +1,7 @@
 Hi 👋
 
 I'm Mohammad Malkawi (A.K.A Mo), a Jordanian in his twenties (for now 😅 <-- the age part 😂)
+
 I see you're peeking around at my profile 👀 , Here's some facts about me!
 
 📖 5th Year Computer Engineering Student at J.U.S.T University
