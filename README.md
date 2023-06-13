@@ -4,7 +4,7 @@ I'm Mohammad Malkawi (A.K.A Mo), a Jordanian in his twenties (for now 😅 <-- t
 
 I see you're peeking around at my profile 👀 , Here are some facts about me!
 
-📖 5th Year Computer Engineering Student at J.U.S.T University
+📖 Computer Engineering Graduate from J.U.S.T University
 ☕️ Java Programmer (Language of Preference due to using it since a young age 🌱)
 
 🔍 Programming Areas of Interest:
