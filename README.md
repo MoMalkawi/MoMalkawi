@@ -5,6 +5,7 @@ I'm Mohammad Malkawi
 I see you're peeking around at my profile 👀 , Here are some facts about me!
 
 📖 Computer Engineering Graduate from J.U.S.T University
+
 Python & Java Software Backend Architect and Developer.
 
 🔍 Programming Areas of Interest:
