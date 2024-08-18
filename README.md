@@ -6,8 +6,32 @@ I’m a seasoned backend developer with extensive experience in generative AI an
 
 Here’s a snapshot of my skills and experience:
 # 💫 About Me:
-🔧 Backend Development & AI<br><br>Leading large-scale projects in generative AI backend development at PwC<br>Proficient in Spring, Spring AI<br>🛠 DevOps & System Administration<br><br>Skilled in Docker, shell scripting, and other DevOps tools<br>Experienced web host administrator: securing, optimizing, and managing cPanel servers<br>💾 Database Management<br><br>Working with vector databases: Qdrant, pgvector, Redis Vector, Azure Cognitive Search, and more<br>Strong background in database administration<br>🧩 Java Bytecode Engineering<br><br>3 years of experience in Java bytecode reverse engineering<br>🔍 Programming Areas of Interest<br><br>Python FastAPI & Flask Development<br>Spring Web Development<br>Java Bytecode Engineering Enthusiast<br>Java Game/Canvas Automation Developer<br>Feel free to explore my repositories and reach out if you’d like to connect!
 
+## 🔧 Backend Development & AI
+
+- Leading large-scale projects in generative AI backend development at PwC
+- Proficient in Spring, Spring AI
+
+## 🛠 DevOps & System Administration
+
+- Skilled in Docker, shell scripting, and other DevOps tools
+- Experienced web host administrator: securing, optimizing, and managing cPanel servers
+
+## 💾 Database Management
+
+- Working with vector databases: Qdrant, pgvector, Redis Vector, Azure Cognitive Search, and more
+- Strong background in database administration
+
+## 🧩 Java Bytecode Engineering
+
+- 3 years of experience in Java bytecode reverse engineering
+
+## 🔍 Programming Areas of Interest
+
+- Python FastAPI & Flask Development
+- Spring Web Development
+- Java Bytecode Engineering Enthusiast
+- Java Game/Canvas Automation Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eng-mohammad-malkawi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/momalkawi1998) 
